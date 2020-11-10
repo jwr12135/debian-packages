@@ -1,0 +1,27 @@
+name: Get Latest [Weekly]
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: Install packages
+        run: npm ci
+
+      - name: Get latest packages
+        run: npm run get-latest
+
+      - name: Update packages list
+        run: npm run get-latest
+
+      - uses: EndBug/add-and-commit@v5
+        with:
+          add: 'debian'
+          message: 'Get latest packages'
