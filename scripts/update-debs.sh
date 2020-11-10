@@ -1,2 +1,3 @@
 #! /bin/sh
-dpkg-scanpackages -m .  | gzip -c > ./debian/Packages.gz
+cd debian
+dpkg-scanpackages -m .  | gzip -9c > ./Packages.gz
