@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: jwr12135 debian repo
 Label: jwr12135 debian repo
 Codename: stable
-Date: Fri, 20 Nov 2020 00:02:40 UTC
+Date: Fri, 20 Nov 2020 00:53:33 UTC
 Architectures: amd64
 Components: main
 Description: jwr12135's debian package repo
 MD5Sum:
- dfa3c0d1925871353f8e27c0981d9346 892 main/binary-amd64/Packages
- 1125e9ec6e67860a6d99acd680e01a0d 505 main/binary-amd64/Packages.gz
+ e3f48a5f05c17d560e8bee1ce39416b8 896 main/binary-amd64/Packages
+ 5c6295c38888009e7d811721c676be41 514 main/binary-amd64/Packages.gz
  067a7d9a1dd0e99166d79be921ae32fb 137 main/binary-amd64/Release
 SHA1:
- bfc71f4c3bcf68e484968c03b020e6936a8a4996 892 main/binary-amd64/Packages
- 6ac6dbd34899a5599bd40e2128ba925922addcb5 505 main/binary-amd64/Packages.gz
+ 93d5cb5517817da9a8b6e7b26ac305bb15d96206 896 main/binary-amd64/Packages
+ 03523a1742842fcd0912acf304a6424182a708b2 514 main/binary-amd64/Packages.gz
  f877a0c0a7458137407e7117002d65e2b759bd12 137 main/binary-amd64/Release
 SHA256:
- 953f493cd8bff7189650af847aa948d4e71a64af0b04dbf1529a7d6325fdcdf0 892 main/binary-amd64/Packages
- 342fbc7e6f169d48a4444558e507af6ef4aaeffddc2abde75b7d74297a6781bb 505 main/binary-amd64/Packages.gz
+ 4e6aefb32863a681affdf88e0855fb1f97fe9240930131ff561a6fcfd91d20e7 896 main/binary-amd64/Packages
+ c528dd8de7f869fe25dcfad9b04cb29e55381b5310cfe50279b01de2d5f94891 514 main/binary-amd64/Packages.gz
  ec63f8d7da95fe9dcf4cb2da8ba761f98b74ec845ba3fd6af882516a44b9a556 137 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEGC9wmjhAmuBbt8CUIbW2zUHMC4EFAl+3B6AACgkQIbW2zUHM
-C4GsqQwAqvbxuvsS+y650hnnCVHj5Jd8PfP1kEPHc9HuOOfgqJqzTtBQUcSSYvjr
-U/A7m12UyB11+rqvZ2Jx3M4Sc5YJaCsqocUxkJW+/Lw7jhqplDTbzkTFQbovs0PU
-rl6srEgTvTV9n7WVwZZuahj1DDZ7KaMBUO4jrSmUJVUwTxUKI21ujje38efsjTqC
-yfLw/kmvfv4mQpRcYU9srVejrLaYZiGthZSyogDPZbvrfGvAYa/hCfIfNC0wn+oz
-a4Dxh+RalOKqnNxWnTdhLp1qdMHFIX8CTCb8X7p3X9b11rKEyTIYJ72ZAZY9C0tV
-EPimzpwLWB4PxiD1AUDRk8/7REutzoSxWyk2SRZEyWw233ARpQurnbiuqtuz2Ig6
-3LDiMdhrkQh9QxmzXAYLyRuCTBEOKZqorNBZTkovODM0zox+rh1eS2tP8VIPIGTc
-nWIjhz87k71oOS+uMxzqUMrg6i65n9Alsnpg03rKMm5iF8WXxDbZwvLUdQ4hHfzI
-4YWIb11h
-=qoZz
+iQGzBAEBCgAdFiEEGC9wmjhAmuBbt8CUIbW2zUHMC4EFAl+3E5AACgkQIbW2zUHM
+C4EhvAwAnotXVJOFxzEmqNAvjuYE5wAtbx5VCCHzMdqc8RM3IXi3KsWBMSC2Y/bo
+HKBzqCZ+9EtcNEOYapTReNBBW7Z2H8OS2b5SCRugHSzqny5MjC0vYo65IX9HwAeh
+Dm0+Ea/q8q/xDzkIhEY7vgSSxRFBIuuoBytiGyWE5ZcEulJWnGSS4RNUFrTgTF7m
+x+FfoLmyk+nNUxH389uhH5u5F4jHSzb749m7Mn6OfDdqXprFn3r2X7fwww8LDK/F
+YhLRrrpktsoX+s8ABx+2M1xxcMUy+ZXnfpcBY9/vThPhb+XLH74xyYWcsTD1F9eD
+8+pdlFgcn//j7unRJwUXfZT55oDeAHO3TYkp3exidHQI0UKCCL5EaLUDIm7WPqUi
+e+nE3jqWM8DsbRdy8PBwVnziWDucyo/HKs8a+B8mF/KyY5SplUHoNrR5lQe4fptZ
+JmkuWgAUbySf75IeRaft+Zc6b4NT2p6bpyiKv2Rar9oFx3eEFFTg2vNwiT0l3RZ9
+D8h6/3Pt
+=u/qO
 -----END PGP SIGNATURE-----

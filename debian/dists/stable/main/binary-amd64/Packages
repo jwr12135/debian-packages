@@ -13,16 +13,16 @@ Description: An advanced alias for the Apt package management tool.
 Homepage: https://github.com/jwr12135/sap
 
 Package: sh-bundle
-Version: 1.0.0
-Architecture: all
+Version: 1.0.1
+Architecture: amd64
 Maintainer: jwr12135
 Priority: optional
 Section: devel
-Filename: pool/main/s/sh-bundle/sh-bundle_1.0.0_all.deb
-Size: 104200
-SHA256: 9aaf74f174410400c6e2f4230f68fd5de837837278a99c93b9dab73ba12eea0f
-SHA1: ad26e1f668411c3011a1c1cd404c26ff67204157
-MD5sum: 0bf80b2469adf21a8c8486719e01608f
+Filename: pool/main/s/sh-bundle/sh-bundle_1.0.1_amd64.deb
+Size: 103964
+SHA256: 128ef51e82556efd28c8cd49cc0303207bdb61640e194ba4c35f8ecd4bc54dc7
+SHA1: 434dc4fa722ecb0aabb5942f717ea68a251bc4f2
+MD5sum: feed5df489d2c448c06bdbabfd06efc2
 Description: Easily bundle and minimize multiple shell scripts into one file.
 Homepage: https://github.com/jwr12135/shell-bundler
 
