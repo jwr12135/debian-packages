@@ -2,24 +2,11 @@
   "name": "debian-packages",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "get-latest": "node ./scripts/get-latest.js",
-    "update-debs": "sh ./scripts/update-debs.sh"
+    "update-packages": "mkdir -p debian/.tmp && node ./scripts/get-packages.js ; node ./scripts/gen-packages.js ; rm -r debian/.tmp"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jwr12135/debian-packages.git"
-  },
-  "author": "",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/jwr12135/debian-packages/issues"
-  },
-  "homepage": "https://github.com/jwr12135/debian-packages#readme",
   "dependencies": {
     "@octokit/rest": "^18.0.9",
-    "follow-redirects": "^1.13.0",
-    "mkdirp": "^1.0.4"
+    "follow-redirects": "^1.13.0"
   }
 }

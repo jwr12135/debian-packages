@@ -1,0 +1,7 @@
+Origin: jwr12135 debian repo
+Label: jwr12135 debian repo
+Codename: stable
+Architectures: amd64
+Components: main
+Description: jwr12135's debian package repo
+SignWith: 182F709A38409AE05BB7C09421B5B6CD41CC0B81
