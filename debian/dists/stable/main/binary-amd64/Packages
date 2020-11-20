@@ -1,0 +1,28 @@
+Package: sap
+Version: 2.1
+Architecture: all
+Maintainer: jwr12135
+Priority: optional
+Section: devel
+Filename: pool/main/s/sap/sap_2.1_all.deb
+Size: 1440
+SHA256: d8886bed5e8fc0b6f4814341c30c6a9e04e1889cd2e4b338fce871b26269cb5f
+SHA1: 74ed5ef8106796642686028fe4ba2d9b1b9baf4d
+MD5sum: a2908ab1af6a442d7aa778646d5d63d4
+Description: An advanced alias for the Apt package management tool.
+Homepage: https://github.com/jwr12135/sap
+
+Package: sh-bundle
+Version: 1.0.0
+Architecture: all
+Maintainer: jwr12135
+Priority: optional
+Section: devel
+Filename: pool/main/s/sh-bundle/sh-bundle_1.0.0_all.deb
+Size: 104200
+SHA256: 9aaf74f174410400c6e2f4230f68fd5de837837278a99c93b9dab73ba12eea0f
+SHA1: ad26e1f668411c3011a1c1cd404c26ff67204157
+MD5sum: 0bf80b2469adf21a8c8486719e01608f
+Description: Easily bundle and minimize multiple shell scripts into one file.
+Homepage: https://github.com/jwr12135/shell-bundler
+

@@ -1,0 +1,5 @@
+Component: main
+Origin: jwr12135 debian repo
+Label: jwr12135 debian repo
+Architecture: amd64
+Description: jwr12135's debian package repo
