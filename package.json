@@ -6,7 +6,7 @@
     "update-packages": "mkdir -p debian/.tmp && node ./scripts/get-packages.js ; node ./scripts/gen-packages.js ; rm -r debian/.tmp"
   },
   "dependencies": {
-    "@octokit/rest": "^18.0.9",
+    "@octokit/rest": "^18.3.5",
     "follow-redirects": "^1.13.0"
   }
 }
